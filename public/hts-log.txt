@@ -1,0 +1,80 @@
+HTTrack3.47-27+htsswf+htsjava launched on Sat, 22 Mar 2014 02:38:13 at http://redteamux.com/avant/index.php +*.png +*.gif +*.jpg +*.map+*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC2t%Pns2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2013], %s -->" -%l "en, *" http://redteamux.com/avant/index.php -O1 "C:\Users\Adalberto\Documents\Downloaded Sites\Avant 1.2.2" +*.png +*.gif +*.jpg +*.map+*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -%A php=text/html )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+02:38:14	Warning: 	Moved Temporarily for redteamux.com/robots.txt
+02:38:14	Warning: 	File has moved from redteamux.com/robots.txt to http://themeforest.net/user/TheRedTeam/portfolio
+02:38:18	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): redteamux.com/avant/assets/demo/variations/default.css
+02:38:24	Warning: 	Moved Temporarily for redteamux.com/avant/header-black.css
+02:38:24	Warning: 	File has moved from redteamux.com/avant/header-black.css to http://themeforest.net/user/TheRedTeam/portfolio
+02:38:28	Warning: 	Moved Temporarily for redteamux.com/avant/default.css
+02:38:28	Warning: 	File has moved from redteamux.com/avant/default.css to http://themeforest.net/user/TheRedTeam/portfolio
+02:38:29	Warning: 	Moved Temporarily for redteamux.com/avant/header-red.css
+02:38:29	Warning: 	File has moved from redteamux.com/avant/header-red.css to http://themeforest.net/user/TheRedTeam/portfolio
+02:38:29	Warning: 	Moved Temporarily for redteamux.com/avant/header-blue.css
+02:38:29	Warning: 	File has moved from redteamux.com/avant/header-blue.css to http://themeforest.net/user/TheRedTeam/portfolio
+02:38:31	Warning: 	Moved Temporarily for redteamux.com/avant/sidebar-steel.css
+02:38:31	Warning: 	File has moved from redteamux.com/avant/sidebar-steel.css to http://themeforest.net/user/TheRedTeam/portfolio
+02:38:35	Warning: 	Moved Temporarily for redteamux.com/avant/sidebar-green.css
+02:38:35	Warning: 	File has moved from redteamux.com/avant/sidebar-green.css to http://themeforest.net/user/TheRedTeam/portfolio
+02:38:44	Warning: 	Retry after error -4 (No data (connection closed)) at link redteamux.com/avant/ui-typography.php (from redteamux.com/avant/index.php)
+02:38:44	Warning: 	Retry after error -4 (No data (connection closed)) at link redteamux.com/avant/ui-buttons.php (from redteamux.com/avant/index.php)
+02:38:58	Warning: 	Retry after error -4 (No data (connection closed)) at link redteamux.com/avant/ui-panels.php (from redteamux.com/avant/index.php)
+02:39:03	Warning: 	Retry after error -4 (No data (connection closed)) at link redteamux.com/avant/ui-tiles.php (from redteamux.com/avant/index.php)
+02:39:06	Warning: 	Retry after error -4 (No data (connection closed)) at link redteamux.com/avant/ui-progressbars.php (from redteamux.com/avant/index.php)
+02:39:09	Warning: 	Retry after error -4 (No data (connection closed)) at link redteamux.com/avant/ui-paginations.php (from redteamux.com/avant/index.php)
+02:39:11	Warning: 	Retry after error -4 (No data (connection closed)) at link redteamux.com/avant/ui-labelsbadges.php (from redteamux.com/avant/index.php)
+02:39:11	Warning: 	Retry after error -4 (No data (connection closed)) at link redteamux.com/avant/ui-alerts.php (from redteamux.com/avant/index.php)
+02:39:16	Warning: 	Retry after error -4 (No data (connection closed)) at link redteamux.com/avant/ui-nestable.php (from redteamux.com/avant/index.php)
+02:39:17	Warning: 	Retry after error -4 (No data (connection closed)) at link redteamux.com/avant/ui-tour.php (from redteamux.com/avant/index.php)
+02:39:17	Warning: 	Retry after error -4 (No data (connection closed)) at link redteamux.com/avant/tables-data.php (from redteamux.com/avant/index.php)
+02:39:17	Warning: 	Retry after error -4 (No data (connection closed)) at link redteamux.com/avant/tables-responsive.php (from redteamux.com/avant/index.php)
+02:39:18	Warning: 	Retry after error -4 (No data (connection closed)) at link redteamux.com/avant/tables-editable.php (from redteamux.com/avant/index.php)
+02:39:32	Warning: 	Retry after error -4 (No data (connection closed)) at link redteamux.com/avant/form-fileupload.php (from redteamux.com/avant/index.php)
+02:39:33	Warning: 	Retry after error -4 (No data (connection closed)) at link redteamux.com/avant/form-ckeditor.php (from redteamux.com/avant/index.php)
+02:39:33	Warning: 	Retry after error -4 (No data (connection closed)) at link redteamux.com/avant/form-xeditable.php (from redteamux.com/avant/index.php)
+02:39:42	Warning: 	Retry after error -4 (No data (connection closed)) at link redteamux.com/avant/charts-flot.php (from redteamux.com/avant/index.php)
+02:39:42	Warning: 	Retry after error -4 (No data (connection closed)) at link redteamux.com/avant/charts-canvas.php (from redteamux.com/avant/index.php)
+02:39:43	Warning: 	Retry after error -4 (No data (connection closed)) at link redteamux.com/avant/charts-inline.php (from redteamux.com/avant/index.php)
+02:39:45	Warning: 	Retry after error -4 (No data (connection closed)) at link redteamux.com/avant/icons-fontawesome.php (from redteamux.com/avant/index.php)
+02:39:48	Warning: 	Retry after error -4 (No data (connection closed)) at link redteamux.com/avant/extras-timeline.php (from redteamux.com/avant/index.php)
+02:39:49	Warning: 	Retry after error -4 (No data (connection closed)) at link redteamux.com/avant/extras-inbox.php (from redteamux.com/avant/index.php)
+02:39:50	Warning: 	Retry after error -4 (No data (connection closed)) at link redteamux.com/avant/extras-chatroom.php (from redteamux.com/avant/index.php)
+02:39:51	Warning: 	Retry after error -4 (No data (connection closed)) at link redteamux.com/avant/extras-registration.php (from redteamux.com/avant/index.php)
+02:39:51	Warning: 	Retry after error -4 (No data (connection closed)) at link redteamux.com/avant/extras-signupform.php (from redteamux.com/avant/index.php)
+02:39:53	Warning: 	Retry after error -4 (No data (connection closed)) at link redteamux.com/avant/extras-login2.php (from redteamux.com/avant/index.php)
+02:39:56	Warning: 	Retry after error -4 (No data (connection closed)) at link redteamux.com/avant/extras-500.php (from redteamux.com/avant/index.php)
+02:39:56	Warning: 	Retry after error -4 (No data (connection closed)) at link redteamux.com/avant/assets/demo/avatar/potter.png (from redteamux.com/avant/index.php)
+02:39:57	Warning: 	Moved Temporarily for redteamux.com/avant/index.htm
+02:39:57	Warning: 	File has moved from redteamux.com/avant/index.htm to http://themeforest.net/user/TheRedTeam/portfolio
+02:40:08	Warning: 	Retry after error -4 (No data (connection closed)) at link redteamux.com/avant/assets/plugins/bootbox/bootbox.min.js (from redteamux.com/avant/ui-modals.php)
+02:40:08	Warning: 	Retry after error -4 (No data (connection closed)) at link redteamux.com/avant/ui-progressbars.php (from redteamux.com/avant/index.php)
+02:40:10	Warning: 	Retry after error -4 (No data (connection closed)) at link redteamux.com/avant/ui-alerts.php (from redteamux.com/avant/index.php)
+02:40:10	Warning: 	Retry after error -4 (No data (connection closed)) at link redteamux.com/avant/assets/plugins/progress-skylo/skylo.css (from redteamux.com/avant/ui-sliders.php)
+02:40:11	Warning: 	Retry after error -4 (No data (connection closed)) at link redteamux.com/avant/assets/plugins/knob/jquery.knob.min.js (from redteamux.com/avant/ui-sliders.php)
+02:40:12	Warning: 	Retry after error -4 (No data (connection closed)) at link redteamux.com/avant/assets/demo/demo-slider.js (from redteamux.com/avant/ui-sliders.php)
+02:40:16	Warning: 	Retry after error -4 (No data (connection closed)) at link redteamux.com/avant/tables-editable.php (from redteamux.com/avant/index.php)
+02:40:16	Warning: 	Retry after error -4 (No data (connection closed)) at link redteamux.com/avant/assets/plugins/form-select2/select2.css (from redteamux.com/avant/form-components.php)
+02:40:18	Warning: 	Retry after error -4 (No data (connection closed)) at link redteamux.com/avant/assets/plugins/form-multiselect/js/jquery.multi-select.min.js (from redteamux.com/avant/form-components.php)
+02:40:18	Warning: 	Retry after error -4 (No data (connection closed)) at link redteamux.com/avant/assets/plugins/jqueryui-timepicker/jquery.ui.timepicker.min.js (from redteamux.com/avant/form-components.php)
+02:40:26	Warning: 	Retry after error -4 (No data (connection closed)) at link redteamux.com/avant/assets/demo/demo-imagecrop.js (from redteamux.com/avant/form-imagecrop.php)
+02:40:26	Warning: 	Retry after error -4 (No data (connection closed)) at link redteamux.com/avant/assets/demo/demo-gmaps.js (from redteamux.com/avant/maps-google.php)
+02:40:27	Warning: 	Retry after error -4 (No data (connection closed)) at link redteamux.com/avant/assets/plugins/jqvmap/maps/jquery.vmap.world.js (from redteamux.com/avant/maps-vector.php)
+02:40:29	Warning: 	Retry after error -4 (No data (connection closed)) at link redteamux.com/avant/assets/demo/images/thmb_ind_rusty.jpg (from redteamux.com/avant/gallery.php)
+02:40:29	Warning: 	Retry after error -4 (No data (connection closed)) at link redteamux.com/avant/assets/demo/images/thmb_nature_mill.jpg (from redteamux.com/avant/gallery.php)
+02:40:29	Warning: 	Retry after error -4 (No data (connection closed)) at link redteamux.com/avant/assets/demo/images/thmb_ind_machinery.jpg (from redteamux.com/avant/gallery.php)
+02:40:31	Warning: 	Retry after error -4 (No data (connection closed)) at link redteamux.com/avant/assets/img/logo-big.png (from redteamux.com/avant/extras-invoice.php)
+02:40:31	Warning: 	Retry after error -4 (No data (connection closed)) at link redteamux.com/avant/extras-registration.php (from redteamux.com/avant/index.php)
+02:40:32	Warning: 	Retry after error -4 (No data (connection closed)) at link redteamux.com/avant/extras-500.php (from redteamux.com/avant/index.php)
+02:40:34	Error: 	"No data (connection closed)" (-4) after 2 retries at link redteamux.com/avant/ui-progressbars.php (from redteamux.com/avant/index.php)
+02:40:35	Warning: 	Retry after error -4 (No data (connection closed)) at link redteamux.com/avant/assets/js/images/ui-bg_flat_0_aaaaaa_40x100.png (from redteamux.com/avant/assets/js/jqueryui.css)
+02:40:36	Warning: 	Retry after error -4 (No data (connection closed)) at link redteamux.com/avant/assets/demo/demo-slider.js (from redteamux.com/avant/ui-sliders.php)
+02:40:40	Warning: 	Retry after error -4 (No data (connection closed)) at link redteamux.com/avant/assets/plugins/jquery-fileupload/js/jquery.fileupload-image.js (from redteamux.com/avant/form-fileupload.php)
+02:40:44	Warning: 	Retry after error -4 (No data (connection closed)) at link redteamux.com/avant/assets/js/images/ui-bg_flat_0_aaaaaa_40x100.png (from redteamux.com/avant/assets/js/jqueryui.css)
+
+HTTrack Website Copier/3.47-27 mirror complete in 2 minutes 32 seconds : 343 links scanned, 298 files written (11118648 bytes overall), 61 files updated [2703782 bytes received at 17788 bytes/sec], 77 bytes transferred using HTTP compression in 1 files, ratio 100%, 1.2 requests per connection
+(1 errors, 68 warnings, 0 messages)
