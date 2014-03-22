@@ -1,6 +1,4 @@
 Zvan
-Selenium Test Status
-
 Zvan Admin Panel Front-End.
 
 Table of contents
@@ -25,7 +23,9 @@ What's included
 
 Within the download you'll find the following directories and files, logically grouping common assets and providing both compiled and minified variations. You'll see something like this:
 
-bootstrap/ ├── css/ │ ├── styles.min.css │ ├── bootstrap.min.css │ ├── bootstrap-theme.css │ └── bootstrap-theme.min.css ├── demo/ │ ├── bootstrap.js │ └── bootstrap.min.js ├── fonts/ │ ├── bootstrap.js │ └── bootstrap.min.js ├── img/ │ ├── bootstrap.js │ └── bootstrap.min.js ├── js/ │ ├── bootstrap.js │ └── bootstrap.min.js └── plugins/ ├── glyphicons-halflings-regular.eot ├── glyphicons-halflings-regular.svg ├── glyphicons-halflings-regular.ttf └── glyphicons-halflings-regular.woff
+``` assets/ ├── css/ │ └── styles.min.css ├── demo/ │ ├── avatar │ ├── images │ └── variations ├── fonts/ │ ├── font-awesome │ └── glyphicons ├── img/ │ ├── logo.png │ └── logo-big.png ├── js/ │ └── images └── plugins/ ├── bootbox ├── bootstro.js ├── charts-chartjs ├── charts-flot └── .....
+
+```
 
 We provide compiled CSS and JS (file.*), as well as compiled and minified CSS and JS (file.min.*). Fonts from Glyphicons are included, as is the optional Bootstrap theme.
 

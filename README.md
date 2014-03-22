@@ -1,6 +1,4 @@
 # Zvan
-[![Selenium Test Status](https://bootstrap.com/adalbertovargas/zvan/meta-src/status-bootstrap.svg)](https://saucelabs.com/u/bootstrap)
-
 
 Zvan Admin Panel Front-End.
 
@@ -32,29 +30,28 @@ Read the [Getting started page](http://getbootstrap.com/getting-started/) for in
 Within the download you'll find the following directories and files, logically grouping common assets and providing both compiled and minified variations. You'll see something like this:
 
 ```
-bootstrap/
+assets/
 ├── css/
-│   ├── styles.min.css
-│   ├── bootstrap.min.css
-│   ├── bootstrap-theme.css
-│   └── bootstrap-theme.min.css
+│   └── styles.min.css
 ├── demo/
-│   ├── bootstrap.js
-│   └── bootstrap.min.js
+│   ├── avatar
+│   ├── images
+│   └── variations
 ├── fonts/
-│   ├── bootstrap.js
-│   └── bootstrap.min.js
+│   ├── font-awesome
+│   └── glyphicons
 ├── img/
-│   ├── bootstrap.js
-│   └── bootstrap.min.js
+│   ├── logo.png
+│   └── logo-big.png
 ├── js/
-│   ├── bootstrap.js
-│   └── bootstrap.min.js
+│   └── images
 └── plugins/
-    ├── glyphicons-halflings-regular.eot
-    ├── glyphicons-halflings-regular.svg
-    ├── glyphicons-halflings-regular.ttf
-    └── glyphicons-halflings-regular.woff
+    ├── bootbox
+    ├── bootstro.js
+    ├── charts-chartjs
+    ├──  charts-flot
+    └── .....
+
 ```
 
 We provide compiled CSS and JS (`file.*`), as well as compiled and minified CSS and JS (`file.min.*`). Fonts from Glyphicons are included, as is the optional Bootstrap theme.
